@@ -1,0 +1,23 @@
+{
+  "name": "random-access-file-tauri",
+  "version": "1.0.0",
+  "description": "random-access-storage implementation for the Tauri FS API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fsteff/random-access-file-tauri.git"
+  },
+  "author": "Stefan Fixl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fsteff/random-access-file-tauri/issues"
+  },
+  "homepage": "https://github.com/fsteff/random-access-file-tauri#readme",
+  "dependencies": {
+    "@tauri-apps/api": "^1.4.0",
+    "random-access-storage": "^3.0.1"
+  }
+}
